@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there, I'm Aman! 👋
+I'm a data scientist and analytics enthusiast with a passion for uncovering insights and building predictive models. I specialize in machine learning, data analytics, and visualization, aiming to turn data into actionable insights.
 
-<!--
-**AmanDataverse/AmanDataverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies & Tools
+Languages: Python, R, SQL
+Libraries: Pandas, Scikit-learn, TensorFlow, Matplotlib
+Analytics Tools: Power BI, Tableau
+Other Tools: Jupyter, Git, Docker
+🌱 What I'm Currently Working On
+Developing advanced machine learning models.
+Creating data visualizations using Power BI and Tableau.
+📈 My Projects
+Project 1:
+Project 2:
+📫 How to Reach Me
+LinkedIn: https://www.linkedin.com/in/amantheanalyst/
+Email: amansharma9605@gmail.com
